@@ -32,3 +32,5 @@ You can click the Preview link to take a look at your changes.
  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lp04-bruno&show_icons=true&locale=en" alt="lp04-bruno" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lp04-bruno&show_icons=true&locale=en&layout=compact" alt="lp04-bruno" /></p>
