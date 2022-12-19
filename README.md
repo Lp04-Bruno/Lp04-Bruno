@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma)
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👀 I’m interested in: **Python, HTML, CSS**
+- 👀 I’m working with: **Python, HTML, CSS, C++**
 
 - 📫 How to reach me **Lp_04#1465 (discord)**
 
