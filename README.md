@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A hobby developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lp04-bruno&label=Profile%20views&color=0e75b6&style=flat" alt="lp04-bruno" /> </p>
-[(https://visitcount.itsvg.in/api?id=Lp04-Bruno&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma)
 
