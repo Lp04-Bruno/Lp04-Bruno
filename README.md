@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lp04-bruno&label=Profile%20views&color=0e75b6&style=flat" alt="lp04-bruno" /> </p>
 
-- 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma)
+- 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma) and a some other private projects (access on request)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **OOP**
 
-- 👀 I’m working with: **Python, HTML, CSS, C++**
+- 👀 I’m working with: **Python, C++, HTML, CSS**
 
 - 📫 How to reach me **Lp_04#1465 (discord)**
 
