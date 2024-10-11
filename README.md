@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I am Lp_04, better known as Bruno
-- 👀 I’m interested in: Python, Html, Css
-- 🌱 I’m currently learning: JS
+- 👀 I’m interested in: Python, Web-Development, .NET-Development
+- 🌱 I’m currently learning: PostgreSQL
 - 📫 How to reach me: - Discord: Lp_04#1465
 
 
@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma) and a some other private projects (access on request)
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **PostgreSQL**
 
-- 👀 I’m working with: **Python, C++, HTML, CSS**
+- 👀 I’m working with: **Python, C++, C#**
 
 - 📫 How to reach me **Lp_04#1465 (discord)**
 
