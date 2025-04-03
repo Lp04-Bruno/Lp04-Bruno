@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I am Lp_04, better known as Bruno
 - 👀 I’m interested in: Python, Web-Development, .NET-Development
-- 🌱 I’m currently learning: PostgreSQL
+- 🌱 I’m currently learning: Angular and Typescript as well as advanced C++
 - 📫 How to reach me: - Discord: Lp_04#1465
 
 
@@ -16,16 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma) and a some other private projects (access on request)
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Angular and Typescript as well as advanced C++PostgreSQL**
 
-- 👀 I’m working with: **Python, C++, C#**
+- 👀 I’m working with: **All the languages / programs listed below**
 
 - 📫 How to reach me **Lp_04#1465 (discord)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Gf99kWPACK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gf99kWPACK" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages - Basic Knowledge:</h4>
