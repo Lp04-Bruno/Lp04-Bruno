@@ -14,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lp04-bruno&label=Profile%20views&color=0e75b6&style=flat" alt="lp04-bruno" /> </p>
 
-- 🔭 I’m currently working on [enigma](https://github.com/Lp04-Bruno/enigma) and a some other private projects (access on request)
+- 🔭 I’m currently working on [Cookie](https://cookieapp.me/) most of the time
 
-- 🌱 I’m currently learning **Angular and Typescript as well as advanced C++PostgreSQL**
-
-- 👀 I’m working with: **All the languages / programs listed below**
+- 🌱 I’m currently learning **Angular and Typescript as well as advanced C++ & PostgreSQL**
 
 - 📫 How to reach me **Lp_04#1465 (discord)**
 
