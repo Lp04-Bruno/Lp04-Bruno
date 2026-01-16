@@ -19,7 +19,11 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Currently working on **[Cookie](https://cookieapp.me/)**.
+- 🔭 Currently working on <b><a href="https://cookieapp.me/">Cookie</a></b> at 
+  <a href="https://github.com/CookieAppTeam">
+    <img src="https://avatars.githubusercontent.com/u/116950387?s=64&v=4" width="22" style="vertical-align: middle; border-radius:50%"/>
+    <b>CookieAppTeam</b>
+  </a>
 - 🌱 Currently learning **Angular & Next.js**.
 - 👯 Looking to collaborate on **[EzCord Utils](https://github.com/Lp04-Bruno/ezcord-utils-vsc)**.
 - 💬 Ask me about **anything from my tech stack below**.
