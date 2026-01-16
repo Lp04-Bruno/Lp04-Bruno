@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lp_04 (Bruno)</h1>
-<h3 align="center">🚀 A passionate full-stack developer from Germany</h3>
+<h3 align="center">🚀 A (hobby) full-stack developer from Germany</h3>
 
 <p align="center"><b>Core strengths:</b> Python • C# • Node.js • Flutter • PostgreSQL</p>
 
