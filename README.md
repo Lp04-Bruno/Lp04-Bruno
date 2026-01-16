@@ -86,12 +86,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
 </p>
 
----
+<!-- ---
 
 ### 🧰 Software
 <p>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
+-->
 
 ---
 
