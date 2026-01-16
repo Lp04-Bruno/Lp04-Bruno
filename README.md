@@ -20,6 +20,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lp04-Bruno&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lp04-Bruno&theme=onedark" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lp04-Bruno&theme=onedark&utcOffset=8" height="200" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🧠 Programming Languages
