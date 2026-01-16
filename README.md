@@ -141,6 +141,16 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
+---
+
+## 🎧 Currently listening on Spotify
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=x5my2131ufp8omijo9bhw1sdo&cover_image=true&theme=default&show_offline=true&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+
 <!-- ---
 
 ## 😄 Dev Joke
