@@ -5,18 +5,18 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Currently working on **[Cookie](https://cookieapp.me/)**
-- 🌱 Currently learning **Angular & Next.js**
-- 👯 Looking to collaborate on **[EzCord Utils](https://github.com/Lp04-Bruno/ezcord-utils-vsc)**
-- 💬 Ask me about **anything from my tech stack below**
-- 📫 Reach me on **Discord: lp_04**
+- 🔭 Currently working on **[Cookie](https://cookieapp.me/)**.
+- 🌱 Currently learning **Angular & Next.js**.
+- 👯 Looking to collaborate on **[EzCord Utils](https://github.com/Lp04-Bruno/ezcord-utils-vsc)**.
+- 💬 Ask me about **anything from my tech stack below**.
+- 📫 Reach me on **Discord: lp_04**.
 
----
+<!-- ---
 
 ## 🔗 Connect with me
 <p align="left">
-<!-- Hier kannst du später z.B. Discord, Website, Twitter, etc. einfügen -->
 </p>
+-->
 
 ---
 
