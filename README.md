@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lp_04 (Bruno)</h1>
 <h3 align="center">🚀 A passionate full-stack developer from Germany</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lp04-bruno&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ### 👨‍💻 About me
