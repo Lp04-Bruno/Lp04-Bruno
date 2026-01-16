@@ -28,6 +28,11 @@
 - 👯 Looking to collaborate on **[EzCord Utils](https://github.com/Lp04-Bruno/ezcord-utils-vsc)**.
 - 💬 Ask me about **anything from my tech stack below**.
 - 📫 Reach me on **Discord: lp_04**.
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=x5my2131ufp8omijo9bhw1sdo&cover_image=true&theme=default&show_offline=true&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 <!-- ---
 
@@ -141,7 +146,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
----
+<!-- ---
 
 ## 🎧 Currently listening on Spotify
 
@@ -151,7 +156,7 @@
   </a>
 </p>
 
-<!-- ---
+---
 
 ## 😄 Dev Joke
 
